@@ -14,7 +14,7 @@
           <tr>
             <th class="w-6"></th>
             <th v-if="bulkAction" scope="col" class="relative w-12 px-4"></th>
-            <th v-for="(column,index) in columns" :key="`head + ${index}`" scope="col" :width="column.width" class="px-3 py-3.5 text-left text-sm font-semibold text-gray-900" >
+            <th v-for="(column,index) in columns" :key="`head + ${index}`" scope="col" :width="column.width" class="px-3 py-3.5 text-left text-sm  text-gray-900" >
               {{column.label}}
             </th>
           </tr>

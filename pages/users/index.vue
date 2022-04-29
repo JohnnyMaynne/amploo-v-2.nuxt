@@ -3,12 +3,9 @@
 
     <template #header>
       <layouts-header title="Users"/>
-      <layouts-header>
-        <template #title>
-          <tabs-component  :items="tabs"/>
-        </template>
-        <layouts-action/>
-      </layouts-header>
+      <app-container>
+        <tabs-component :items="tabs"/>
+      </app-container>
     </template>
 
 

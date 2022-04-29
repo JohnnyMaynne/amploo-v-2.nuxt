@@ -3,7 +3,7 @@
       <div v-if="$slots.default" class="flex justify-between mb-4">
         <slot/>
       </div>
-      <div class="text-base text-gray-900 font-bold flex-1 mb-2.5">{{ title }}</div>
+      <div class="text-base text-gray-900 flex-1 mb-2.5">{{ title }}</div>
       <div class="text-xs font-normal text-gray-500">{{ info }}</div>
     </component>
 </template>

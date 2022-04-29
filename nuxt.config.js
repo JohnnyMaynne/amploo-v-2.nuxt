@@ -38,6 +38,7 @@ export default {
     '@/plugins/vue-api-query.js',
     '@/plugins/vue-tabler-icons.js',
     '@/plugins/vue-formulate.js',
+    '@/plugins/vue-contenteditable.js',
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -47,7 +48,8 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/svg'
+    '@nuxtjs/svg',
+    '@nuxtjs/google-fonts'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -94,4 +96,11 @@ export default {
 
   // Off loading: https://nuxtjs.org/docs/features/loading/#disable-the-progress-bar
   loading: false,
+
+  // google fonts: https://google-fonts.nuxtjs.org/options
+  googleFonts: {
+    families: {
+      Inter: [300,400,500,600],
+    }
+  }
 }

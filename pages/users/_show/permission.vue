@@ -14,7 +14,7 @@
                   <input id="comments" name="comments" type="radio" class="focus:ring-primary-500 h-4 w-4 text-primary-600 border-gray-300 rounded-full">
                 </div>
                 <div class="ml-3 text-sm">
-                  <label for="comments" class="font-medium text-gray-700">Comments</label>
+                  <label for="comments" class=" text-gray-700">Comments</label>
                   <p class="text-gray-500">Get notified when someones posts a comment on a posting.</p>
                 </div>
               </div>
@@ -24,7 +24,7 @@
                     <input id="candidates" name="candidates" type="radio" class="focus:ring-primary-500 h-4 w-4 text-primary-600 border-gray-300 rounded-full">
                   </div>
                   <div class="ml-3 text-sm">
-                    <label for="candidates" class="font-medium text-gray-700">Candidates</label>
+                    <label for="candidates" class=" text-gray-700">Candidates</label>
                     <p class="text-gray-500">Get notified when a candidate applies for a job.</p>
                   </div>
                 </div>
@@ -35,7 +35,7 @@
                     <input id="offers" name="offers" type="radio" class="focus:ring-primary-500 h-4 w-4 text-primary-600 border-gray-300 rounded-full">
                   </div>
                   <div class="ml-3 text-sm">
-                    <label for="offers" class="font-medium text-gray-700">Offers</label>
+                    <label for="offers" class=" text-gray-700">Offers</label>
                     <p class="text-gray-500">Get notified when a candidate accepts or rejects an offer.</p>
                   </div>
                 </div>
@@ -52,7 +52,7 @@
                   <input id="comments" name="comments" type="checkbox" class="focus:ring-primary-500 h-4 w-4 text-primary-600 border-gray-300 rounded">
                 </div>
                 <div class="ml-3 text-sm">
-                  <label for="comments" class="font-medium text-gray-700">Comments</label>
+                  <label for="comments" class=" text-gray-700">Comments</label>
                   <p class="text-gray-500">Get notified when someones posts a comment on a posting.</p>
                 </div>
               </div>
@@ -62,7 +62,7 @@
                     <input id="candidates" name="candidates" type="checkbox" class="focus:ring-primary-500 h-4 w-4 text-primary-600 border-gray-300 rounded">
                   </div>
                   <div class="ml-3 text-sm">
-                    <label for="candidates" class="font-medium text-gray-700">Candidates</label>
+                    <label for="candidates" class=" text-gray-700">Candidates</label>
                     <p class="text-gray-500">Get notified when a candidate applies for a job.</p>
                   </div>
                 </div>
@@ -73,7 +73,7 @@
                     <input id="offers" name="offers" type="checkbox" class="focus:ring-primary-500 h-4 w-4 text-primary-600 border-gray-300 rounded">
                   </div>
                   <div class="ml-3 text-sm">
-                    <label for="offers" class="font-medium text-gray-700">Offers</label>
+                    <label for="offers" class=" text-gray-700">Offers</label>
                     <p class="text-gray-500">Get notified when a candidate accepts or rejects an offer.</p>
                   </div>
                 </div>
@@ -83,7 +83,7 @@
                   <input id="comments" name="comments" type="checkbox" class="focus:ring-primary-500 h-4 w-4 text-primary-600 border-gray-300 rounded">
                 </div>
                 <div class="ml-3 text-sm">
-                  <label for="comments" class="font-medium text-gray-700">Comments</label>
+                  <label for="comments" class=" text-gray-700">Comments</label>
                   <p class="text-gray-500">Get notified when someones posts a comment on a posting.</p>
                 </div>
               </div>
@@ -93,7 +93,7 @@
                     <input id="candidates" name="candidates" type="checkbox" class="focus:ring-primary-500 h-4 w-4 text-primary-600 border-gray-300 rounded">
                   </div>
                   <div class="ml-3 text-sm">
-                    <label for="candidates" class="font-medium text-gray-700">Candidates</label>
+                    <label for="candidates" class=" text-gray-700">Candidates</label>
                     <p class="text-gray-500">Get notified when a candidate applies for a job.</p>
                   </div>
                 </div>
@@ -104,7 +104,7 @@
                     <input id="offers" name="offers" type="checkbox" class="focus:ring-primary-500 h-4 w-4 text-primary-600 border-gray-300 rounded">
                   </div>
                   <div class="ml-3 text-sm">
-                    <label for="offers" class="font-medium text-gray-700">Offers</label>
+                    <label for="offers" class=" text-gray-700">Offers</label>
                     <p class="text-gray-500">Get notified when a candidate accepts or rejects an offer.</p>
                   </div>
                 </div>

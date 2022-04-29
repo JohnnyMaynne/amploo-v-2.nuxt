@@ -4,19 +4,19 @@
       <sidebar-item v-for="item in menu" :key="item.title" :item="item"/>
     </div>
     <div class="mt-8">
-      <h3 class="px-3 text-xs font-semibold text-gray-500 uppercase tracking-wider">Education</h3>
+      <h3 class="px-3 text-xs  text-gray-500 uppercase tracking-wider">Education</h3>
       <div class="mt-1 space-y-1" role="group" aria-labelledby="desktop-teams-headline">
         <sidebar-item  v-for="item in education" :key="item.title" :item="item"/>
       </div>
     </div>
     <div class="mt-8">
-      <h3 class="px-3 text-xs font-semibold text-gray-500 uppercase tracking-wider">Management</h3>
+      <h3 class="px-3 text-xs  text-gray-500 uppercase tracking-wider">Management</h3>
       <div class="mt-1 space-y-1" role="group" aria-labelledby="desktop-teams-headline">
         <sidebar-item  v-for="item in management" :key="item.title" :item="item"/>
       </div>
     </div>
     <div class="mt-8">
-      <h3 class="px-3 text-xs font-semibold text-gray-500 uppercase tracking-wider">Other</h3>
+      <h3 class="px-3 text-xs  text-gray-500 uppercase tracking-wider">Other</h3>
       <div class="mt-1 space-y-1" role="group" aria-labelledby="desktop-teams-headline">
         <sidebar-item  v-for="item in settings" :key="item.title" :item="item"/>
       </div>

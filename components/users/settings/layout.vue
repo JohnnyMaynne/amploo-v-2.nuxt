@@ -8,11 +8,10 @@
         </template>
       </layouts-header>
 
-      <layouts-header hide-action>
-        <template #title>
-          <tabs-component :items="tabs"/>
-        </template>
-      </layouts-header>
+
+      <app-container>
+        <tabs-component :items="tabs"/>
+      </app-container>
     </template>
 
     <formulate-form class="space-y-8 divide-y divide-gray-200 pb-12">

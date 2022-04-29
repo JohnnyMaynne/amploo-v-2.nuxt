@@ -51,7 +51,7 @@
           <nav class="px-2">
             <div class="space-y-1">
               <!-- Current: "bg-gray-100 text-gray-900", Default: "text-gray-600 hover:text-gray-900 hover:bg-gray-50" -->
-              <a href="#" class="bg-gray-100 text-gray-900 group flex items-center px-2 py-2 text-base leading-5 font-medium rounded-md" aria-current="page">
+              <a href="#" class="bg-gray-100 text-gray-900 group flex items-center px-2 py-2 text-base leading-5  rounded-md" aria-current="page">
                 <!--
                   Heroicon name: outline/home
 
@@ -63,7 +63,7 @@
                 Home
               </a>
 
-              <a href="#" class="text-gray-600 hover:text-gray-900 hover:bg-gray-50 group flex items-center px-2 py-2 text-base leading-5 font-medium rounded-md">
+              <a href="#" class="text-gray-600 hover:text-gray-900 hover:bg-gray-50 group flex items-center px-2 py-2 text-base leading-5  rounded-md">
                 <!-- Heroicon name: outline/view-list -->
                 <svg class="text-gray-400 group-hover:text-gray-500 mr-3 flex-shrink-0 h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16" />
@@ -71,7 +71,7 @@
                 My tasks
               </a>
 
-              <a href="#" class="text-gray-600 hover:text-gray-900 hover:bg-gray-50 group flex items-center px-2 py-2 text-base leading-5 font-medium rounded-md">
+              <a href="#" class="text-gray-600 hover:text-gray-900 hover:bg-gray-50 group flex items-center px-2 py-2 text-base leading-5  rounded-md">
                 <!-- Heroicon name: outline/clock -->
                 <svg class="text-gray-400 group-hover:text-gray-500 mr-3 flex-shrink-0 h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -80,19 +80,19 @@
               </a>
             </div>
             <div class="mt-8">
-              <h3 class="px-3 text-xs font-semibold text-gray-500 uppercase tracking-wider" id="mobile-teams-headline">Teams</h3>
+              <h3 class="px-3 text-xs  text-gray-500 uppercase tracking-wider" id="mobile-teams-headline">Teams</h3>
               <div class="mt-1 space-y-1" role="group" aria-labelledby="mobile-teams-headline">
-                <a href="#" class="group flex items-center px-3 py-2 text-base leading-5 font-medium text-gray-600 rounded-md hover:text-gray-900 hover:bg-gray-50">
+                <a href="#" class="group flex items-center px-3 py-2 text-base leading-5  text-gray-600 rounded-md hover:text-gray-900 hover:bg-gray-50">
                   <span class="w-2.5 h-2.5 mr-4 bg-primary-500 rounded-full" aria-hidden="true"></span>
                   <span class="truncate"> Engineering </span>
                 </a>
 
-                <a href="#" class="group flex items-center px-3 py-2 text-base leading-5 font-medium text-gray-600 rounded-md hover:text-gray-900 hover:bg-gray-50">
+                <a href="#" class="group flex items-center px-3 py-2 text-base leading-5  text-gray-600 rounded-md hover:text-gray-900 hover:bg-gray-50">
                   <span class="w-2.5 h-2.5 mr-4 bg-green-500 rounded-full" aria-hidden="true"></span>
                   <span class="truncate"> Human Resources </span>
                 </a>
 
-                <a href="#" class="group flex items-center px-3 py-2 text-base leading-5 font-medium text-gray-600 rounded-md hover:text-gray-900 hover:bg-gray-50">
+                <a href="#" class="group flex items-center px-3 py-2 text-base leading-5  text-gray-600 rounded-md hover:text-gray-900 hover:bg-gray-50">
                   <span class="w-2.5 h-2.5 mr-4 bg-yellow-500 rounded-full" aria-hidden="true"></span>
                   <span class="truncate"> Customer Success </span>
                 </a>

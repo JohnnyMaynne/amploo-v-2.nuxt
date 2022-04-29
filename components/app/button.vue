@@ -1,5 +1,5 @@
 <template>
-  <component :disabled="disabled" :is="is" :to="to" :class="[typeClasses,sizeClasses]" class="inline-flex items-center px-4 py-2 border text-sm font-medium rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2">
+  <component :disabled="disabled" :is="is" :to="to" :class="[typeClasses,sizeClasses]" class="inline-flex items-center px-4 py-2 border text-sm  rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2">
     <slot/>
   </component>
 </template>

@@ -8,7 +8,7 @@
       <div class="bg-white origin-top-left absolute left-0 top-0 z-10 w-56 rounded-md shadow-lg bg-white ring-1 ring-black ring-opacity-5 focus:outline-none">
         <div class="flex-1 flex flex-col p-4 text-center">
           <img class="w-32 h-32 flex-shrink-0 mx-auto rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60" alt="">
-          <h3 class="mt-6 text-gray-900 text-sm font-medium">{{ user.first_name }} {{ user.last_name }}</h3>
+          <h3 class="mt-6 text-gray-900 text-sm ">{{ user.first_name }} {{ user.last_name }}</h3>
           <dl class="mt-1 space-y-1 flex-grow flex flex-col justify-between">
             <dd class="text-gray-500 text-xs">{{ user.position }}</dd>
             <dd class="text-gray-500 text-xs">{{ user.email }}</dd>

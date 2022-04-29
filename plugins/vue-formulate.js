@@ -7,11 +7,11 @@ Vue.use(VueFormulate, {
     label: (context, classes) => {
       switch (context.type) {
         case 'radio':
-          return ['block text-sm font-medium text-gray-700']
+          return ['block text-sm  text-gray-700']
         case 'checkbox':
-          return ['block text-sm font-medium text-gray-700']
+          return ['block text-sm  text-gray-700']
         default:
-          return ['block text-sm font-medium text-gray-700 mb-1']
+          return ['block text-sm  text-gray-700 mb-1']
       }
     },
     input: (context, classes) => {
@@ -32,7 +32,7 @@ Vue.use(VueFormulate, {
       return ['mt-1 text-xs text-gray-500']
     },
     error: (context, classes) => {
-      return ['mt-0.5 text-xs text-red-500 font-medium']
+      return ['mt-0.5 text-xs text-red-500 ']
     },
     wrapper : (context, classes) => {
       switch (context.type) {
